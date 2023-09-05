@@ -7,3 +7,7 @@
 6) git remote -v
 7) git branch -M [renameBranch according to github]
 8) git push -u origin main
+
+if push is not working->
+git pull --rebase origin [branchName]
+8) git push -u origin main
