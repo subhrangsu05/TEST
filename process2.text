@@ -8,6 +8,6 @@
 7) git branch -M [renameBranch according to github]
 8) git push -u origin main
 
-if push is not working->
+if push is not working and throws error->
 git pull --rebase origin [branchName]
 8) git push -u origin main
