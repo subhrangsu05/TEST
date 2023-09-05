@@ -1,3 +1,3 @@
 # TEST
 Learning GITHUB
-@Author - Subhrangsu Sinha
+@Author - Subhrangsu Sinha Learning GIT
